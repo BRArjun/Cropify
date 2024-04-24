@@ -60,10 +60,6 @@ To run Cropify locally, follow these steps:
 
 We welcome contributions from the community to enhance Cropify's features, improve its performance, and expand its capabilities. To contribute, please fork the repository, make your changes, and submit a pull request with a detailed description of your modifications.
 
-## Support
-
-For any questions, issues, or feedback, please contact us at [support@cropify.com](mailto:support@cropify.com). We're here to assist you and improve your Cropify experience.
-
 ## License
 
 Cropify is licensed under the MIT License.
