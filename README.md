@@ -1,3 +1,7 @@
+<img src="templates/Screenshot 2024-04-07 151553.png">
+
+
+
 # Cropify
 
 Cropify is a web application designed to empower farmers with intelligent decision-making tools to enhance their farming practices and promote sustainability in the agricultural sector. Leveraging machine learning models, Cropify offers farmers insights and recommendations tailored to their specific needs and conditions.
